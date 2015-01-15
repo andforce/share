@@ -7,6 +7,7 @@
 
 简介 | 分享者
 :------------- | :-------------
+[Android笔记.chm](https://github.com/zcwk/Android-learning-notes/tree/master) | [上海-and](https://github.com/zcwk)
 [一个自动生成gitignore的在线工具](https://www.gitignore.io/) | [杭州-code](https://github.com/shenzihao)
 [自学 iOS 开发的一些经验，同样适用所有初学者](http://www.cocoachina.com/ios/20150104/10823.html) | [小丑](https://github.com/pcqpcq)  
 [Chrome插件：树结构浏览github项目代码](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=zh-CN  ) | [广州-alee](https://github.com/rizhilee)  
