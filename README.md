@@ -7,6 +7,9 @@
 
 简介 | 分享者
 :------------- | :-------------
+[AndroidDevTools中文](http://www.androiddevtools.cn/) | [北京-一休](https://github.com/ikkyu0319)
+[非常不错的团队协作工具Teambition](https://www.teambition.com/projects) | [北京-一休](https://github.com/ikkyu0319)
+[免费的IM解决方案](http://www.easemob.com/hx/index.html) | [北京-一休](https://github.com/ikkyu0319)
 [Android笔记.chm](https://github.com/zcwk/Android-learning-notes/tree/master) | [上海-and](https://github.com/zcwk)
 [一个自动生成gitignore的在线工具](https://www.gitignore.io/) | [杭州-code](https://github.com/shenzihao)
 [自学 iOS 开发的一些经验，同样适用所有初学者](http://www.cocoachina.com/ios/20150104/10823.html) | [小丑](https://github.com/pcqpcq)  
@@ -151,7 +154,6 @@
 [Android应用快速模板生成工具I -- android bootstrap)](http://www.androidbootstrap.com/) | [yeungeek](https://github.com/yeungeek) 
 [Android应用快速模板生成工具II -- 基于Jake Wharton的u2020应用](http://velcro.andrewreitz.com/) | [yeungeek](https://github.com/yeungeek) 
 [.gitignore忽略文件模板,包含各种语言和IDE声明](https://github.com/github/gitignore/) | [yeungeek](https://github.com/yeungeek)
-[Android开发者网址导航](https://github.com/zmywly8866/The-Android-Developer-Site-Navigation) | [zmywly8866](https://github.com/zmywly8866)
 
 #### [1 群](https://github.com/aosp-exchange-group/about)
 
@@ -174,7 +176,7 @@
 
 简介 | 分享者
 :------------- | :-------------
-[Android开发者网址导航](https://github.com/zmywly8866/The-Android-Developer-Site-Navigation) | [东莞-UperOne](https://github.com/zmywly8866)
+ | | |
  
 
 #### [3 群](https://github.com/aosp-exchange-group/about)
