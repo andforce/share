@@ -3,7 +3,9 @@
 > 添加规范：  
 > `[简单介绍](链接) | [分享者 Github](Github 地址) 或 QQ 昵称`
 
-#### [4 群](https://github.com/aosp-exchange-group/about)
+[1 群]() ------ [2 群]() ------ [3 群]() ------ [4 群]() ------ [5 群]() ------ [6 群]() 
+ 
+#### [Group 4](https://github.com/aosp-exchange-group/about)
 
 简介 | 分享者
 :------------- | :-------------
@@ -155,7 +157,7 @@
 [Android应用快速模板生成工具II -- 基于Jake Wharton的u2020应用](http://velcro.andrewreitz.com/) | [yeungeek](https://github.com/yeungeek) 
 [.gitignore忽略文件模板,包含各种语言和IDE声明](https://github.com/github/gitignore/) | [yeungeek](https://github.com/yeungeek)
 
-#### [1 群](https://github.com/aosp-exchange-group/about)
+#### [Group 1](https://github.com/aosp-exchange-group/about)
 
 简介 | 分享者
 :------------- | :-------------
@@ -172,28 +174,26 @@
 [Google Android官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/index.html) | [深圳-扯淡兄](https://github.com/qqonline)
 [Android Weekly(中文版)](http://zhuanlan.zhihu.com/android-weekly) | [深圳-扯淡兄](https://github.com/qqonline)
 
-#### [2 群](https://github.com/aosp-exchange-group/about)
+#### [Group 2](https://github.com/aosp-exchange-group/about)
 
 简介 | 分享者
 :------------- | :-------------
- | | |
- 
+ | | 
 
-#### [3 群](https://github.com/aosp-exchange-group/about)
-
-简介 | 分享者
-:------------- | :-------------
- | | |
- 
- 
-#### [5 群](https://github.com/aosp-exchange-group/about)
+#### [Group 3](https://github.com/aosp-exchange-group/about)
 
 简介 | 分享者
 :------------- | :-------------
- | | |
+ | | 
  
-#### [6 群](https://github.com/aosp-exchange-group/about)
+#### [Group 5](https://github.com/aosp-exchange-group/about)
 
 简介 | 分享者
 :------------- | :-------------
- | | |
+ | | 
+ 
+#### [Group 6](https://github.com/aosp-exchange-group/about)
+
+简介 | 分享者
+:------------- | :-------------
+ | | 
