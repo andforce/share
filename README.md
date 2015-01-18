@@ -11,6 +11,7 @@
 
 简介 | 分享者
 :------------- | :-------------
+[Android应用首页轮播广告控件](https://github.com/gcgongchao/flashview) | [天津-Android将军](https://github.com/gcgongchao)
 [AndroidDevTools中文](http://www.androiddevtools.cn/) | [北京-一休](https://github.com/ikkyu0319)
 [非常不错的团队协作工具Teambition](https://www.teambition.com/projects) | [北京-一休](https://github.com/ikkyu0319)
 [免费的IM解决方案](http://www.easemob.com/hx/index.html) | [北京-一休](https://github.com/ikkyu0319)
