@@ -168,6 +168,7 @@
 [Android开发技术周报](http://www.inferjay.com/) | [东莞-UperOne](https://github.com/zmywly8866) 
 [png图片压缩工具：Tinypng](https://tinypng.com/) | [东莞-UperOne](https://github.com/zmywly8866) 
 [Android开发者网址导航](https://github.com/zmywly8866/The-Android-Developer-Site-Navigation) | [东莞-UperOne](https://github.com/zmywly8866) 
+[apk-downloader：下载Google Play上的APK到电脑上](http://apps.evozi.com/apk-downloader/) | [东莞-UperOne](https://github.com/zmywly8866) 
 
 #### [Group 1](https://github.com/aosp-exchange-group/about)
 [开源交流 1 群](https://github.com/aosp-exchange-group/share#group-1) ------ [开源交流 2 群](https://github.com/aosp-exchange-group/share#group-2) ------ [开源交流 3 群](https://github.com/aosp-exchange-group/share#group-3)  
