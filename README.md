@@ -6,11 +6,6 @@
 #### 目录
 [开源交流 1 群](https://github.com/aosp-exchange-group/share#group-1) ------ [开源交流 2 群](https://github.com/aosp-exchange-group/share#group-2) ------ [开源交流 3 群](https://github.com/aosp-exchange-group/share#group-3)  
 [开源交流 4 群](https://github.com/aosp-exchange-group/share#group-4) ------ [开源交流 5 群](https://github.com/aosp-exchange-group/share#group-5) ------ [开源交流 6 群](https://github.com/aosp-exchange-group/share#group-6)  
-
-#### 原创
-简介 | 几群 | 分享者
-:------------- | :------------- | :-------------
- | | 
  
 #### [Group 4](https://github.com/aosp-exchange-group/about)
 
@@ -164,6 +159,7 @@
 [Android应用快速模板生成工具I -- android bootstrap)](http://www.androidbootstrap.com/) | [yeungeek](https://github.com/yeungeek) 
 [Android应用快速模板生成工具II -- 基于Jake Wharton的u2020应用](http://velcro.andrewreitz.com/) | [yeungeek](https://github.com/yeungeek) 
 [.gitignore忽略文件模板,包含各种语言和IDE声明](https://github.com/github/gitignore/) | [yeungeek](https://github.com/yeungeek)
+[【原创】HamburgerButton(Android版)](https://github.com/guojunyi/HamburgerButton_android) | [深圳-yi](https://github.com/guojunyi)
 
 #### [Group 1](https://github.com/aosp-exchange-group/about)
 [开源交流 1 群](https://github.com/aosp-exchange-group/share#group-1) ------ [开源交流 2 群](https://github.com/aosp-exchange-group/share#group-2) ------ [开源交流 3 群](https://github.com/aosp-exchange-group/share#group-3)  
