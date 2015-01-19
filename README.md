@@ -11,6 +11,10 @@
 简介 | 几群 | 作者
 :------------- | :------------- | :-------------
 [HamburgerButton(Android版)](https://github.com/guojunyi/HamburgerButton_android) | 4 群 |  [深圳-yi](https://github.com/guojunyi)
+[手势按钮](https://github.com/maxyou/gesturebutton) | 4 群 | [北京-游子](https://github.com/maxyou/)
+[仿5.0Ripple效果](https://github.com/skyfishjy/android-ripple-background) | 4 群 | [创业 - 大鱼]()
+[下拉刷新动画](https://github.com/guojunyi/PullDownListView) | 4 群 | [深圳-yi](https://github.com/guojunyi)
+[下拉窗帘效果的控件](https://github.com/aicaprio/CurtainView) | 4 群 | [苏州-风纹贝壳](https://github.com/aicaprio)
 
 #### [Group 4](https://github.com/aosp-exchange-group/about)
 
@@ -70,10 +74,8 @@
 [ListView每行可展开](https://github.com/tjerkw/Android-SlideExpandableListView) | [小丑](https://github.com/pcqpcq)
 [开源相机](https://github.com/almalence/OpenCamera) | [广州-alee](https://github.com/rizhilee)
 [GPU加载图片](https://github.com/CyberAgent/android-gpuimage) | [广州-alee](https://github.com/rizhilee)
-[【原创】手势按钮](https://github.com/maxyou/gesturebutton) | [北京-游子](https://github.com/maxyou/)
 [开源IM](http://git.oschina.net/farsunset/cim) | [恒巨-vincent]()
 [替换系统的Toast](https://github.com/johnkil/Android-AppMsg) | [超表-Quennel]()
-[【原创】仿5.0Ripple效果](https://github.com/skyfishjy/android-ripple-background) | [创业 - 大鱼]()
 [MVP开发模式](https://github.com/pedrovgs/EffectiveAndroidUI) | [自由职业-OneDir](https://github.com/dev4mobile)
 [Google Material Design 的图标资源](https://github.com/google/material-design-icons) | [广州-alee](https://github.com/rizhilee)
 [强大的图片效果处理库](https://github.com/daizhenjun/ImageFilterForAndroid) | [成都极米-long]()
@@ -96,7 +98,6 @@
 [加强版TextView](https://github.com/chiuki/advanced-textview) | [精创-拉登]()
 [Android瀑布流](https://github.com/etsy/AndroidStaggeredGrid) | [广州-alee](https://github.com/rizhilee)
 [Android自定义View集合](http://androidcustomviews.com/custom-views/) | [上海-Sam]()
-[【原创】下拉刷新动画](https://github.com/guojunyi/PullDownListView) | [深圳-yi](https://github.com/guojunyi)
 [Material风格的GoogleIO-2014，2.3+](https://github.com/rahulparsani/google-io-2014-compat) | [深圳-yi](https://github.com/guojunyi)
 [小红点控件](https://github.com/jgilfelt/android-viewbadger) | [小丑](https://github.com/pcqpcq)
 [在线dp-px换算工具](http://pixplicity.com/dp-px-converter/) | [流光时代-Mako]()
@@ -114,7 +115,6 @@
 [又一个开关控件](https://github.com/kyleduo/SwitchButton) | [小丑](https://github.com/pcqpcq)
 [再一个开关控件](https://github.com/zcweng/ToggleButton) | [小丑](https://github.com/pcqpcq)
 [水波动画的环形进度条](https://github.com/Modificator/water-wave-progress) | [广州-alee](https://github.com/rizhilee)
-[【原创】下拉窗帘效果的控件](https://github.com/aicaprio/CurtainView) | [苏州-风纹贝壳](https://github.com/aicaprio)
 [银行卡格式的输入框](https://github.com/aliHafizji/CreditCardEditText) | [小丑](https://github.com/pcqpcq)
 [又一个银行卡格式的输入框](https://github.com/jgrana/CreditCardEntry) | [小丑](https://github.com/pcqpcq)
 [移植4.2的NumberPicker，2.1+](https://github.com/SimonVT/android-numberpicker ) | [广州-alee](https://github.com/rizhilee)
