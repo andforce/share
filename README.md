@@ -164,6 +164,7 @@
 [Android应用快速模板生成工具I -- android bootstrap)](http://www.androidbootstrap.com/) | [yeungeek](https://github.com/yeungeek) 
 [Android应用快速模板生成工具II -- 基于Jake Wharton的u2020应用](http://velcro.andrewreitz.com/) | [yeungeek](https://github.com/yeungeek) 
 [.gitignore忽略文件模板,包含各种语言和IDE声明](https://github.com/github/gitignore/) | [yeungeek](https://github.com/yeungeek)
+[Android开发周报](http://www.androidweekly.cn/) | [东莞-UperOne](https://github.com/zmywly8866) 
 
 #### [Group 1](https://github.com/aosp-exchange-group/about)
 [开源交流 1 群](https://github.com/aosp-exchange-group/share#group-1) ------ [开源交流 2 群](https://github.com/aosp-exchange-group/share#group-2) ------ [开源交流 3 群](https://github.com/aosp-exchange-group/share#group-3)  
