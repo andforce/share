@@ -10,6 +10,7 @@
 #### 原创
 简介 | 几群 | 作者
 :------------- | :------------- | :-------------
+[Android应用首页轮播广告控件](https://github.com/gcgongchao/flashview) | 4 群 |  [天津-Android将军](https://github.com/gcgongchao)
 [HamburgerButton(Android版)](https://github.com/guojunyi/HamburgerButton_android) | 4 群 |  [深圳-yi](https://github.com/guojunyi)
 [手势按钮](https://github.com/maxyou/gesturebutton) | 4 群 | [北京-游子](https://github.com/maxyou/)
 [仿5.0Ripple效果](https://github.com/skyfishjy/android-ripple-background) | 4 群 | [创业 - 大鱼]()
