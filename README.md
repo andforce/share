@@ -6,6 +6,11 @@
 #### 目录
 [开源交流 1 群](https://github.com/aosp-exchange-group/share#group-1) ------ [开源交流 2 群](https://github.com/aosp-exchange-group/share#group-2) ------ [开源交流 3 群](https://github.com/aosp-exchange-group/share#group-3)  
 [开源交流 4 群](https://github.com/aosp-exchange-group/share#group-4) ------ [开源交流 5 群](https://github.com/aosp-exchange-group/share#group-5) ------ [开源交流 6 群](https://github.com/aosp-exchange-group/share#group-6)  
+
+#### 原创
+简介 | 几群 | 分享者
+:------------- | :------------- | :-------------
+ | | 
  
 #### [Group 4](https://github.com/aosp-exchange-group/about)
 
