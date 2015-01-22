@@ -173,6 +173,7 @@
 [tutorialspoint：各种编程语言、各个知识点的demo程序](http://www.tutorialspoint.com/) | [东莞-UperOne](https://github.com/zmywly8866) 
 [visualgo：学习数据结构的好去处](http://visualgo.net/) | [东莞-UperOne](https://github.com/zmywly8866)
 [licecap：生成gif图片格式的windows录屏工具](http://www.appinn.com/licecap/) | [东莞-UperOne](https://github.com/zmywly8866)  
+[搜集优秀的Android开源项目或资源信息](https://github.com/dusunboy/android-nice-repo) | [待业-Vincent](https://github.com/dusunboy)
 
 #### [Group 1](https://github.com/aosp-exchange-group/about)
 [开源交流 1 群](https://github.com/aosp-exchange-group/share#group-1) ------ [开源交流 2 群](https://github.com/aosp-exchange-group/share#group-2) ------ [开源交流 3 群](https://github.com/aosp-exchange-group/share#group-3)  
