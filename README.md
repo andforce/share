@@ -2,6 +2,7 @@
 
 > 添加规范：  
 > `[简单介绍](链接) | [分享者 Github](Github 地址) 或 QQ 昵称`
+> 最新添加放相应表格最上面
 
 #### 目录
 [开源交流 1 群](https://github.com/aosp-exchange-group/share#group-1) ------ [开源交流 2 群](https://github.com/aosp-exchange-group/share#group-2) ------ [开源交流 3 群](https://github.com/aosp-exchange-group/share#group-3)  
