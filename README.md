@@ -22,6 +22,7 @@
 
 简介 | 分享者
 :------------- | :-------------
+[MorningRouting的窗帘效果有个国人开源出来了](https://github.com/7heaven/bitmapMesh) | [小丑](https://github.com/pcqpcq)  
 [Android应用首页轮播广告控件](https://github.com/gcgongchao/flashview) | [天津-Android将军](https://github.com/gcgongchao)
 [AndroidDevTools中文](http://www.androiddevtools.cn/) | [北京-一休](https://github.com/ikkyu0319)
 [非常不错的团队协作工具Teambition](https://www.teambition.com/projects) | [北京-一休](https://github.com/ikkyu0319)
