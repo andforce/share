@@ -22,8 +22,7 @@
 
 简介 | 分享者
 :------------- | :-------------
-[仿微信聊天界面图片的剪裁，带小三角]（https://github.com/nicewarm/WeChatImageClipping）|
-[北京-nice](https://github.com/nicewarm)
+[仿微信聊天界面图片的剪裁，带小三角了](https://github.com/nicewarm/WeChatImageClipping) | [北京-nice](https://github.com/nicewarm)  
 [MorningRouting的窗帘效果有个国人开源出来了](https://github.com/7heaven/bitmapMesh) | [小丑](https://github.com/pcqpcq)  
 [Android应用首页轮播广告控件](https://github.com/gcgongchao/flashview) | [天津-Android将军](https://github.com/gcgongchao)
 [AndroidDevTools中文](http://www.androiddevtools.cn/) | [北京-一休](https://github.com/ikkyu0319)
