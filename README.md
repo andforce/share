@@ -19,7 +19,7 @@
 [仿5.0Ripple效果](https://github.com/skyfishjy/android-ripple-background) | 4 群 | [创业 - 大鱼]()
 [下拉刷新动画](https://github.com/guojunyi/PullDownListView) | 4 群 | [深圳-yi](https://github.com/guojunyi)
 [下拉窗帘效果的控件](https://github.com/aicaprio/CurtainView) | 4 群 | [苏州-风纹贝壳](https://github.com/aicaprio)
-[AndroidPhotoPicker图片选择器](https://github.com/rtsbtx/PhotoPicker) | 1 群 | [深圳-无嗔](https://github.com/rtsbtx)
+[PhotoPicker图片选择器](https://github.com/rtsbtx/PhotoPicker) | 1 群 | [深圳-无嗔](https://github.com/rtsbtx)
 
 #### [Group 4](https://github.com/aosp-exchange-group/about)
 
