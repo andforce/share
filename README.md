@@ -200,6 +200,7 @@
 [Material Design 中文版](http://design.1sters.com/) | [深圳-扯淡兄](https://github.com/qqonline)
 [Google Android官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/index.html) | [深圳-扯淡兄](https://github.com/qqonline)
 [Android Weekly(中文版)](http://zhuanlan.zhihu.com/android-weekly) | [深圳-扯淡兄](https://github.com/qqonline)
+[Using Project Kotlin for Android @JakeWharton](https://docs.google.com/document/d/1ReS3ep-hjxWA8kZi0YqDbEhCqTt29hG8P44aA9W0DM8/edit?hl=zh-CN&forcehl=1#)|[武汉江夏吴彦祖](https://github.com/qq157755587)
 
 #### [Group 2](https://github.com/aosp-exchange-group/about)
 [开源交流 1 群](https://github.com/aosp-exchange-group/share#group-1) ------ [开源交流 2 群](https://github.com/aosp-exchange-group/share#group-2) ------ [开源交流 3 群](https://github.com/aosp-exchange-group/share#group-3)  
