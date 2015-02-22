@@ -208,7 +208,7 @@
 
 简介 | 分享者
 :------------- | :-------------
- | | 
+[KernelAdiutor: 一款材料设计的内核调整工具](https://github.com/Grarak/KernelAdiutor) |[miao1007](https://github.com/miao1007) | 
 
 #### [Group 3](https://github.com/aosp-exchange-group/about)
 [开源交流 1 群](https://github.com/aosp-exchange-group/share#group-1) ------ [开源交流 2 群](https://github.com/aosp-exchange-group/share#group-2) ------ [开源交流 3 群](https://github.com/aosp-exchange-group/share#group-3)  
