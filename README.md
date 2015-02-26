@@ -12,6 +12,8 @@
 简介 | 几群 | 作者
 :------------- | :------------- | :-------------
 [Android图片360°无限循环滚动](https://github.com/guoGavin/PanoramicAutoScroll) | 4 群 | [gavin](https://github.com/guoGavin)
+[仿照nice的标签](https://github.com/nicewarm/NiceTags) | 4 群 |  
+[北京-nice](https://github.com/nicewarm)
 [仿微信聊天界面图片的剪裁，带小三角了](https://github.com/nicewarm/WeChatImageClipping) | 4 群 |  [北京-nice](https://github.com/nicewarm)
 [Android应用首页轮播广告控件](https://github.com/gcgongchao/flashview) | 4 群 |  [天津-Android将军](https://github.com/gcgongchao)
 [HamburgerButton(Android版)](https://github.com/guojunyi/HamburgerButton_android) | 4 群 |  [深圳-yi](https://github.com/guojunyi)
