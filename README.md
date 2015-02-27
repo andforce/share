@@ -11,6 +11,7 @@
 #### 原创
 简介 | 几群 | 作者
 :------------- | :------------- | :-------------
+[四季电台: 一个开源的校园电台app](https://github.com/linroid/Sky31Radio) | 2群 | [linroid](https://github.com/linroid)
 [Android图片360°无限循环滚动](https://github.com/guoGavin/PanoramicAutoScroll) | 4 群 | [gavin](https://github.com/guoGavin)
 [仿nice标签](https://github.com/nicewarm/NiceTags) | 4 群 |  [北京-nice](https://github.com/nicewarm)
 [仿微信聊天界面图片的剪裁，带小三角了](https://github.com/nicewarm/WeChatImageClipping) | 4 群 |  [北京-nice](https://github.com/nicewarm)
