@@ -12,7 +12,6 @@
 简介 | 几群 | 作者
 :------------- | :------------- | :-------------
 [Android-ClipLayout](https://github.com/guojunyi/Android-ClipLayout) | 4 群 |  [深圳-yi](https://github.com/guojunyi)
-[ViewPagerIndicator](https://github.com/LuckyJayce/ViewPagerIndicator) | 4 群 |
 [FilterMenu:一个菜单组件](https://github.com/linroid/FilterMenu) | 2群 | [linroid](http://github.com/linroid)
 [下拉(滑动)退出: 可以从多个方向滑动退出](https://github.com/liuguangqiang/SwipeBack) | 2群 | [Eric](https://github.com/liuguangqiang)
 [四季电台: 一个开源的校园电台app](https://github.com/linroid/Sky31Radio) | 2群 | [linroid](https://github.com/linroid)
@@ -26,6 +25,7 @@
 [下拉刷新动画](https://github.com/guojunyi/PullDownListView) | 4 群 | [深圳-yi](https://github.com/guojunyi)
 [下拉窗帘效果的控件](https://github.com/aicaprio/CurtainView) | 4 群 | [苏州-风纹贝壳](https://github.com/aicaprio)
 [PhotoPicker图片选择器](https://github.com/rtsbtx/PhotoPicker) | 1 群 | [深圳-无嗔](https://github.com/rtsbtx)
+[ViewPagerIndicator](https://github.com/LuckyJayce/ViewPagerIndicator) | 4 群 |  [LuckyJayce]
 
 #### [Group 4](https://github.com/aosp-exchange-group/about)
 
