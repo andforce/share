@@ -11,8 +11,8 @@
 #### 原创
 简介 | 几群 | 作者
 :------------- | :------------- | :-------------
+[书吧: 开源小说APP,免费小说阅读,一个完整的小说阅读器](https://github.com/liuguangqiang/shuba) | 2群 | [Eric](https://github.com/liuguangqiang)
 [加速球效果](https://github.com/guoGavin/CustomAccelerateBall) | 4 群 | [gavin](https://github.com/guoGavin)
-[可翻转Layout(正反面),可以翻转显示其背面的View，像真实的卡片一样](https://github.com/liuguangqiang/TurnLayout) | 2群 | [Eric](https://github.com/liuguangqiang)
 [Android-ClipLayout](https://github.com/guojunyi/Android-ClipLayout) | 4 群 |  [深圳-yi](https://github.com/guojunyi)
 [FilterMenu:一个菜单组件](https://github.com/linroid/FilterMenu) | 2群 | [linroid](http://github.com/linroid)
 [下拉(滑动)退出: 可以从多个方向滑动退出](https://github.com/liuguangqiang/SwipeBack) | 2群 | [Eric](https://github.com/liuguangqiang)
