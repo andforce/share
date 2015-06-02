@@ -11,6 +11,7 @@
 #### 原创
 简介 | 几群 | 作者
 :------------- | :------------- | :-------------
+[关于Android Design Support Library的完整例子](https://github.com/liuguangqiang/AndroidSupportDesignSample) | 2群 | [Eric](https://github.com/liuguangqiang)
 [书吧: 开源小说APP,免费小说阅读,一个完整的小说阅读器](https://github.com/liuguangqiang/shuba) | 2群 | [Eric](https://github.com/liuguangqiang)
 [加速球效果](https://github.com/guoGavin/CustomAccelerateBall) | 4 群 | [gavin](https://github.com/guoGavin)
 [Android-ClipLayout](https://github.com/guojunyi/Android-ClipLayout) | 4 群 |  [深圳-yi](https://github.com/guojunyi)
