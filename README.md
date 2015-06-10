@@ -21,7 +21,7 @@
 [Android图片360°无限循环滚动](https://github.com/guoGavin/PanoramicAutoScroll) | 4 群 | [gavin](https://github.com/guoGavin)
 [仿nice标签](https://github.com/nicewarm/NiceTags) | 4 群 |  [北京-nice](https://github.com/nicewarm)
 [仿微信聊天界面图片的剪裁，带小三角了](https://github.com/nicewarm/WeChatImageClipping) | 4 群 |  [北京-nice](https://github.com/nicewarm)
-[Android应用首页轮播广告控件](https://github.com/gcgongchao/flashview) | 4 群 |  [天津-Android将军](https://github.com/gcgongchao)
+[Android应用首页轮播广告控件](https://github.com/gcgongchao/flashview) | 4 群 |  [Android将军](https://github.com/gcgongchao)
 [HamburgerButton(Android版)](https://github.com/guojunyi/HamburgerButton_android) | 4 群 |  [深圳-yi](https://github.com/guojunyi)
 [手势按钮](https://github.com/maxyou/gesturebutton) | 4 群 | [北京-游子](https://github.com/maxyou/)
 [仿5.0Ripple效果](https://github.com/skyfishjy/android-ripple-background) | 4 群 | [创业 - 大鱼]()
@@ -36,6 +36,7 @@
 
 简介 | 分享者
 :------------- | :-------------
+[Android音频的谱线图](https://github.com/felixpalmer/android-visualizer) | [Android将军](https://github.com/gcgongchao)
 [在线查看Android各个版本源码的网址](http://grepcode.com/project/repository.grepcode.com/java/ext/com.google.android/android/) | [Android将军](https://github.com/gcgongchao)
 [Android树形视图AndroidTreeView](https://github.com/bmelnychuk/AndroidTreeView) | [Android将军](https://github.com/gcgongchao)
 [开源推送服务框架gopush，支持分布式，有Android/iOS sdk](https://github.com/Terry-Mao/gopush-cluster) | [超表-Quennel](https://github.com/Quennel)
