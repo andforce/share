@@ -234,12 +234,12 @@
 #### [Group 3](https://github.com/aosp-exchange-group/about)
 [开源交流 1 群](https://github.com/aosp-exchange-group/share#group-1) ------ [开源交流 2 群](https://github.com/aosp-exchange-group/share#group-2) ------ [开源交流 3 群](https://github.com/aosp-exchange-group/share#group-3)  
 [开源交流 4 群](https://github.com/aosp-exchange-group/share#group-4) ------ [开源交流 5 群](https://github.com/aosp-exchange-group/share#group-5) ------ [开源交流 6 群](https://github.com/aosp-exchange-group/share#group-6)  
-[爱看博客客户端](https://github.com/KJFrame/KJBlog) | [kymjs张涛](https://github.com/kymjs)
-[EmojiChat:聊天界面+emoji表情+大表情实现](https://github.com/kymjs/EmojiChat) |  [kymjs张涛](https://github.com/kymjs)
 
 简介 | 分享者
 :------------- | :-------------
  | | 
+ [爱看博客客户端](https://github.com/KJFrame/KJBlog) | [kymjs张涛](https://github.com/kymjs)
+[EmojiChat:聊天界面+emoji表情+大表情实现](https://github.com/kymjs/EmojiChat) |  [kymjs张涛](https://github.com/kymjs)
  
 #### [Group 5](https://github.com/aosp-exchange-group/about)
 [开源交流 1 群](https://github.com/aosp-exchange-group/share#group-1) ------ [开源交流 2 群](https://github.com/aosp-exchange-group/share#group-2) ------ [开源交流 3 群](https://github.com/aosp-exchange-group/share#group-3)  
