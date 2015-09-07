@@ -14,6 +14,7 @@
 [一个支持滑动删除,拖拽和底部分页的RecyclerView](https://github.com/liuguangqiang/SuperRecyclerView) | 2群 | [Eric](https://github.com/liuguangqiang)
 [Android Design Support Library的完整例子](https://github.com/liuguangqiang/AndroidDesignSupportSample) | 2群 | [Eric](https://github.com/liuguangqiang)
 [书吧: 开源小说APP,免费小说阅读,一个完整的小说阅读器](https://github.com/liuguangqiang/shuba) | 2群 | [Eric](https://github.com/liuguangqiang)
+[App+: 自己开发的用于传送、提取APK文件等的工具软件。](https://github.com/maoruibin/AppPlus) | 2群 | [GuDong](https://github.com/maoruibin)
 [加速球效果](https://github.com/guoGavin/CustomAccelerateBall) | 4 群 | [gavin](https://github.com/guoGavin)
 [Android-ClipLayout](https://github.com/guojunyi/Android-ClipLayout) | 4 群 |  [深圳-yi](https://github.com/guojunyi)
 [FilterMenu:一个菜单组件](https://github.com/linroid/FilterMenu) | 2群 | [linroid](http://github.com/linroid)
@@ -225,6 +226,7 @@
 简介 | 分享者
 :------------- | :-------------
 [KernelAdiutor: 一款材料设计的内核调整工具](https://github.com/Grarak/KernelAdiutor) |[miao1007](https://github.com/miao1007) | 
+[App+: 导出、传输APK的工具app](https://github.com/maoruibin/AppPlus) |[gudong](https://github.com/maoruibin) | 
 
 #### [Group 3](https://github.com/aosp-exchange-group/about)
 [开源交流 1 群](https://github.com/aosp-exchange-group/share#group-1) ------ [开源交流 2 群](https://github.com/aosp-exchange-group/share#group-2) ------ [开源交流 3 群](https://github.com/aosp-exchange-group/share#group-3)  
