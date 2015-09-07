@@ -11,6 +11,8 @@
 #### 原创
 简介 | 几群 | 作者
 :------------- | :------------- | :-------------
+[爱看博客客户端](https://github.com/KJFrame/KJBlog) | 3群 | [kymjs张涛](https://github.com/kymjs)
+[EmojiChat:聊天界面+emoji表情+大表情实现](https://github.com/kymjs/EmojiChat) | 3群 | [kymjs张涛](https://github.com/kymjs)
 [App+: MD风格的一个用于传送、提取APK文件的工具app。](https://github.com/maoruibin/AppPlus) | 2群 | [GuDong](https://github.com/maoruibin)
 [一个支持滑动删除,拖拽和底部分页的RecyclerView](https://github.com/liuguangqiang/SuperRecyclerView) | 2群 | [Eric](https://github.com/liuguangqiang)
 [Android Design Support Library的完整例子](https://github.com/liuguangqiang/AndroidDesignSupportSample) | 2群 | [Eric](https://github.com/liuguangqiang)
