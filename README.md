@@ -11,6 +11,7 @@
 #### 原创
 简介 | 几群 | 作者
 :------------- | :------------- | :-------------
+[Android及java开发学习过程中的深度笔记，全面，重要，清晰,wiki版本](https://github.com/wswenyue/note/wiki)|3群|[wswenyue](https://github.com/wswenyue)
 [爱看博客客户端](https://github.com/KJFrame/KJBlog) | 3群 | [kymjs张涛](https://github.com/kymjs)
 [EmojiChat:聊天界面+emoji表情+大表情实现](https://github.com/kymjs/EmojiChat) | 3群 | [kymjs张涛](https://github.com/kymjs)
 [App+: MD风格的一个用于传送、提取APK文件的工具app。](https://github.com/maoruibin/AppPlus) | 2群 | [GuDong](https://github.com/maoruibin)
@@ -240,7 +241,7 @@
  | | 
  [爱看博客客户端](https://github.com/KJFrame/KJBlog) | [kymjs张涛](https://github.com/kymjs)
 [EmojiChat:聊天界面+emoji表情+大表情实现](https://github.com/kymjs/EmojiChat) |  [kymjs张涛](https://github.com/kymjs)
- 
+ [Android及java开发学习过程中的深度笔记，全面，重要，清晰，wiki版本](https://github.com/wswenyue/note/wiki)|[wswenyue](https://github.com/wswenyue)
 #### [Group 5](https://github.com/aosp-exchange-group/about)
 [开源交流 1 群](https://github.com/aosp-exchange-group/share#group-1) ------ [开源交流 2 群](https://github.com/aosp-exchange-group/share#group-2) ------ [开源交流 3 群](https://github.com/aosp-exchange-group/share#group-3)  
 [开源交流 4 群](https://github.com/aosp-exchange-group/share#group-4) ------ [开源交流 5 群](https://github.com/aosp-exchange-group/share#group-5) ------ [开源交流 6 群](https://github.com/aosp-exchange-group/share#group-6)  
