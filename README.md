@@ -10,7 +10,8 @@
  
 #### 原创
 简介 | 几群 | 作者
-:------------- | :------------- | :-------------
+:------------- | :------------- | :-------------  
+[加载大图,高清显示10000*10000像素的图片，轻松实现微博长图功能](https://github.com/LuckyJayce/LargeImage)|4群|[LuckyJayce](https://github.com/LuckyJayce)
 [Android及java开发学习过程中的深度笔记，全面，重要，清晰,wiki版本](https://github.com/wswenyue/note/wiki)|3群|[wswenyue](https://github.com/wswenyue)
 [爱看博客客户端](https://github.com/KJFrame/KJBlog) | 3群 | [kymjs张涛](https://github.com/kymjs)
 [EmojiChat:聊天界面+emoji表情+大表情实现](https://github.com/kymjs/EmojiChat) | 3群 | [kymjs张涛](https://github.com/kymjs)
