@@ -11,7 +11,7 @@
 #### 原创
 简介 | 几群 | 作者
 :------------- | :------------- | :-------------  
-[一个可以侧滑出条目操作菜单的RecycleView.ViewHolder](https://github.com/liangzhitao/SwipeMenuViewHolder)|4群[Ailurus](https://github.com/liangzhitao)
+[一个可以侧滑出条目操作菜单的RecycleView.ViewHolder](https://github.com/liangzhitao/SwipeMenuViewHolder)|4群|[Ailurus](https://github.com/liangzhitao)
 [加载大图,高清显示10000*10000像素的图片，轻松实现微博长图功能](https://github.com/LuckyJayce/LargeImage)|4群|[LuckyJayce](https://github.com/LuckyJayce)
 [Android及java开发学习过程中的深度笔记，全面，重要，清晰,wiki版本](https://github.com/wswenyue/note/wiki)|3群|[wswenyue](https://github.com/wswenyue)
 [git版本控制学习笔记。全面，重要，清晰,wiki版本](https://github.com/wswenyue/gitStudy/wiki)|3群|[wswenyue](https://github.com/wswenyue)
