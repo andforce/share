@@ -259,7 +259,8 @@
 
 简介 | 分享者
 :------------- | :-------------
- | | 
+ | |
+ [挺酷炫的一个TextView文字动画](https://github.com/hanks-zyh/HTextView) | [Wmmeng](https://github.com/Wmmeng) 
 [AndroidDevTools](http://www.androiddevtools.cn/) | [Sinopec-CC](https://github.com/SoftwareME)
 [一个漂亮的dialog动画](https://github.com/sd6352051/NiftyDialogEffects) | [Wmmeng](https://github.com/Wmmeng)
 [一个漂亮动画的图表](https://github.com/diogobernardino/WilliamChart) | [Wmmeng](https://github.com/Wmmeng)
