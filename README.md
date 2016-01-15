@@ -11,7 +11,6 @@
 #### 原创
 简介 | 几群 | 作者
 :------------- | :------------- | :-------------  
-[环形进度动画效果,3.0+](https://github.com/spriteviki/animated-view)|4群|[Jack Han](https://github.com/spriteviki) 
 [一个集合实用的工具类](https://github.com/l123456789jy/Lazy)|3群|[lazy](https://github.com/l123456789jy)
 [一个可以侧滑出条目操作菜单的RecycleView.ViewHolder](https://github.com/liangzhitao/SwipeMenuViewHolder)|4群|[Ailurus](https://github.com/liangzhitao)
 [加载大图,高清显示10000*10000像素的图片，轻松实现微博长图功能](https://github.com/LuckyJayce/LargeImage)|4群|[LuckyJayce](https://github.com/LuckyJayce)
