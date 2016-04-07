@@ -211,6 +211,7 @@
 [licecap：生成gif图片格式的windows录屏工具](http://www.appinn.com/licecap/) | [东莞-UperOne](https://github.com/zmywly8866)  
 [搜集优秀的Android开源项目或资源信息](https://github.com/dusunboy/android-nice-repo) | [待业-Vincent](https://github.com/dusunboy)
 [在线快速编辑应用](https://modao.cc/) | [北京-猫三](https://github.com/koooe)
+[Android Studio常用快捷键及技巧合集](https://github.com/arlong/BookMark/blob/master/KeyMapMark.md) | [北京-/太阳](https://github.com/arlong)
 
 #### [Group 1](https://github.com/aosp-exchange-group/about)
 [开源交流 1 群](https://github.com/aosp-exchange-group/share#group-1) ------ [开源交流 2 群](https://github.com/aosp-exchange-group/share#group-2) ------ [开源交流 3 群](https://github.com/aosp-exchange-group/share#group-3)  
