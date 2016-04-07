@@ -145,7 +145,7 @@
 [仿5.0的侧边栏，2.1+](https://github.com/ikimuhendis/LDrawer) | [小丑](https://github.com/pcqpcq)
 [移植5.0侧边栏按钮汉堡动画的控件，2.1+](https://github.com/balysv/material-menu) | [小丑](https://github.com/pcqpcq)
 [多线程操作数据库](https://github.com/LuckyJayce/DBExecutor) | [厦门-小凡]()
-[Android动画集](https://github.com/z56402344/BaseAnimation) | [北京-/抱拳]()
+[Android动画集](https://github.com/z56402344/BaseAnimation) | [北京-/抱拳](https://github.com/arlong)
 [开关控件](https://github.com/Issacw0ng/SwitchButton) | [广州-alee](https://github.com/rizhilee)
 [又一个开关控件](https://github.com/kyleduo/SwitchButton) | [小丑](https://github.com/pcqpcq)
 [再一个开关控件](https://github.com/zcweng/ToggleButton) | [小丑](https://github.com/pcqpcq)
