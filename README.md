@@ -44,6 +44,8 @@
 [ViewPagerIndicator](https://github.com/LuckyJayce/ViewPagerIndicator) | 4 群 | [LuckyJayce](https://github.com/LuckyJayce)
 [MVCHelper下拉刷新，底部加载更多，MVC架构](https://github.com/LuckyJayce/MVCHelper) | 4 群 | [LuckyJayce](https://github.com/LuckyJayce)
 [LoadViewHelper布局切换](https://github.com/LuckyJayce/LoadViewHelper) | 4 群 | [LuckyJayce](https://github.com/LuckyJayce)
+[三级或多级选择菜单，支持左右滑动](https://github.com/arlong/MultiMenuSelect) | 4 群 | [arlong](https://github.com/arlong)
+[ViewPager数字指示器](https://github.com/arlong/DigitsPagerIndicator) | 4 群 | [arlong](https://github.com/arlong)
 
 #### [Group 4](https://github.com/aosp-exchange-group/about)
 
@@ -145,7 +147,7 @@
 [仿5.0的侧边栏，2.1+](https://github.com/ikimuhendis/LDrawer) | [小丑](https://github.com/pcqpcq)
 [移植5.0侧边栏按钮汉堡动画的控件，2.1+](https://github.com/balysv/material-menu) | [小丑](https://github.com/pcqpcq)
 [多线程操作数据库](https://github.com/LuckyJayce/DBExecutor) | [厦门-小凡]()
-[Android动画集](https://github.com/z56402344/BaseAnimation) | [北京-/抱拳](https://github.com/arlong)
+[Android动画集](https://github.com/z56402344/BaseAnimation) | [北京-/抱拳]()
 [开关控件](https://github.com/Issacw0ng/SwitchButton) | [广州-alee](https://github.com/rizhilee)
 [又一个开关控件](https://github.com/kyleduo/SwitchButton) | [小丑](https://github.com/pcqpcq)
 [再一个开关控件](https://github.com/zcweng/ToggleButton) | [小丑](https://github.com/pcqpcq)
