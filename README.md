@@ -11,6 +11,7 @@
 #### 原创
 简介 | 几群 | 作者
 :------------- | :------------- | :-------------  
+[实现Android新手引导页](https://github.com/LuckyJayce/GuideHelper)|4群|[LuckyJayce](https://github.com/LuckyJayce)  
 [爆炸式的菜单按钮](https://github.com/Nightonke/BoomMenu)|4群|[Nightonke](https://github.com/Nightonke) 
 [使用data binding , dagger2 , retrofit2和rxjava实现的, 基于MVVM的知乎日报APP。](https://github.com/liuguangqiang/Idaily) | 2群 | [Eric](https://github.com/liuguangqiang)
 [App引导页动画效果+个人App简历](https://github.com/Nightonke/WoWoViewPager)|4群|[Nightonke](https://github.com/Nightonke) 
